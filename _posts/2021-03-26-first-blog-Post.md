@@ -1,5 +1,5 @@
 ---
-title: Welcome to Just a New Blog
+title: "Welcome to Just a New Blog"
 date: 2021-03-26
 ---
 
